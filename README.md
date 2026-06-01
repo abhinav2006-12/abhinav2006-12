@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhinav%20P%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Freelance%20Videographer%20%26%20Editor&descAlignY=62&descSize=16)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Abhinav%20P%20R&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Freelance%20Videographer%20%26%20Editor&descAlignY=60&descSize=16&descColor=70a5fd" width="100%" alt="banner"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&height=60&lines=Hey%2C+I%27m+Abhinav+P+R+%F0%9F%91%8B" alt="Typing SVG" />
@@ -141,10 +143,7 @@ const abhinav = {
 | 🏅 | Achievement | Details |
 |:--:|:------------|:--------|
 | 🎓 | **BCA Student — KTU** | Mentor Engineering College, Kottayam · Semester 2 · 2025–Present |
-| 🌐 | **Google Gemini Campus Ambassador** | Official ambassador at Mentor Engineering College |
-| 🚀 | **Founder — Team Deluxe** | Freelance web & app development outlet active since 2020 |
 | 🎥 | **Freelance Videographer & Editor** | Campus photography, video production, UI/UX design |
-| 🤖 | **NeuralPath AI-LMS** | Built full AI-driven learning management system with Anthropic API chatbot for a hackathon |
 
 </div>
 
@@ -180,4 +179,6 @@ const abhinav = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+</div>
