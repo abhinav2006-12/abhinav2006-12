@@ -43,11 +43,11 @@ const abhinav = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-abhinav2006-12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinav2006-12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav%20P%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav2006-12)
-[![GitHub](https://img.shields.io/badge/GitHub-abhinav2006-12-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhinav2006-12)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://abhinav2006-12.vercel.app)
-[![Profile Views](https://komarev.com/ghpvc/?username=abhinav2006-12&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/abhinav2006-12)
+<a href="mailto:abhiinavpr@gmail.com"><img src="https://img.shields.io/badge/Gmail-abhiinavpr%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abhiinavpr"><img src="https://img.shields.io/badge/LinkedIn-Abhinav%20P%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/abhinav2006-12"><img src="https://img.shields.io/badge/GitHub-abhinav2006--12-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://abhiinavpr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-70A5FD?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/abhinav2006-12"><img src="https://komarev.com/ghpvc/?username=abhinav2006-12&style=flat-square&color=70a5fd&label=Profile+Views"/></a>
 
 </div>
 
@@ -60,7 +60,7 @@ const abhinav = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -87,12 +87,8 @@ const abhinav = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/abhinav2006-12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinav2006-12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/abhinav2006-12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav2006-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinav2006-12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav2006-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 </div>
 
 ---
@@ -116,7 +112,7 @@ const abhinav = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinav2006-12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinav2006-12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -143,7 +139,7 @@ const abhinav = {
 | 🏅 | Achievement | Details |
 |:--:|:------------|:--------|
 | 🎓 | **BCA Student — KTU** | Mentor Engineering College, Kottayam · Semester 2 · 2025–Present |
-| 🎥 | **Freelance Videographer & Editor** | Campus photography, video production, UI/UX design |
+| 🎥 | **Freelance Videographer & Editor** | Video production, UI/UX design |
 
 </div>
 
