@@ -1,9 +1,7 @@
-<a href="https://github.com/abhiinavpr">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhinav%20P%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Freelance%20Videographer%20%26%20Editor&descAlignY=62&descSize=16" />
-</a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhinav%20P%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Freelance%20Videographer%20%26%20Editor&descAlignY=62&descSize=16)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abhinav+P+R+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Supabase;Freelance+Videographer+%26+Editor;BCA+Student+%40+Mentor+Engineering+College;Building+real-world+apps+from+Kerala+%F0%9F%8C%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&height=60&lines=Hey%2C+I%27m+Abhinav+P+R+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -43,11 +41,11 @@ const abhinav = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-abhiinavpr%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhiinavpr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav%20P%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiinavpr)
-[![GitHub](https://img.shields.io/badge/GitHub-abhiinavpr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhiinavpr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://abhiinavpr.vercel.app)
-[![Profile Views](https://komarev.com/ghpvc/?username=abhiinavpr&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/abhiinavpr)
+[![Email](https://img.shields.io/badge/Gmail-abhinav2006-12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinav2006-12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav%20P%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav2006-12)
+[![GitHub](https://img.shields.io/badge/GitHub-abhinav2006-12-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhinav2006-12)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://abhinav2006-12.vercel.app)
+[![Profile Views](https://komarev.com/ghpvc/?username=abhinav2006-12&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/abhinav2006-12)
 
 </div>
 
@@ -87,11 +85,11 @@ const abhinav = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/abhiinavpr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhiinavpr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/abhinav2006-12">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinav2006-12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/abhiinavpr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiinavpr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/abhinav2006-12">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav2006-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -100,7 +98,7 @@ const abhinav = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhiinavpr&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=abhinav2006-12&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -108,7 +106,7 @@ const abhinav = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhiinavpr&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav2006-12&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -116,7 +114,7 @@ const abhinav = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhiinavpr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinav2006-12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -127,10 +125,10 @@ const abhinav = {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**AttendEase**](https://github.com/abhiinavpr/attendease) | React · Tailwind · Supabase · Vercel | Role-based attendance system with 3 user roles (Institution Admin, Class Teacher, Subject Teacher). OTP login, WhatsApp export, Dynamic Island notification UI. Deployed on Vercel. |
-| [**E-Vardhakya**](https://github.com/abhiinavpr/e-vardhakya) | React · Face API · Supabase | Elder care app with real-time face emotion detection and SOS emergency screen. Multilingual (Malayalam + English). Accessibility-focused for elderly users in Kerala. |
-| [**BillSwift**](https://github.com/abhiinavpr/billswift) | React · Supabase · UPI Integration | Mobile billing app with cart management, checkout flow, and UPI QR code generation. Shop management dashboard + subuser roles. Built for small businesses & retail. |
-| [**KeralaGigs**](https://github.com/abhiinavpr/keralagigs) | React · Supabase · Tailwind | Hyperlocal gig marketplace connecting Kerala day workers with recruiters. Worker, Recruiter & Admin modules with credits system and real-time notifications. |
+| [**AttendEase**](https://github.com/abhinav2006-12/attendease) | React · Tailwind · Supabase · Vercel | Role-based attendance system with 3 user roles (Institution Admin, Class Teacher, Subject Teacher). OTP login, WhatsApp export, Dynamic Island notification UI. Deployed on Vercel. |
+| [**E-Vardhakya**](https://github.com/abhinav2006-12/e-vardhakya) | React · Face API · Supabase | Elder care app with real-time face emotion detection and SOS emergency screen. Multilingual (Malayalam + English). Accessibility-focused for elderly users in Kerala. |
+| [**BillSwift**](https://github.com/abhinav2006-12/billswift) | React · Supabase · UPI Integration | Mobile billing app with cart management, checkout flow, and UPI QR code generation. Shop management dashboard + subuser roles. Built for small businesses & retail. |
+| [**KeralaGigs**](https://github.com/abhinav2006-12/keralagigs) | React · Supabase · Tailwind | Hyperlocal gig marketplace connecting Kerala day workers with recruiters. Worker, Recruiter & Admin modules with credits system and real-time notifications. |
 
 </div>
 
