@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Abhinav%20P%20R&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Freelance%20Videographer%20%26%20Editor&descAlignY=60&descSize=16&descColor=70a5fd" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=180&amp;section=header&amp;text=Abhinav%20P%20R&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%7C%20Freelance%20Videographer%20%26%20Editor&amp;descAlignY=60&amp;descSize=16&amp;descColor=70a5fd" width="100%" alt="banner"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&height=60&lines=Hey%2C+I%27m+Abhinav+P+R+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=60&amp;lines=Hey%2C+I%27m+Abhinav+P+R+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -87,8 +87,8 @@ const abhinav = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinav2006-12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav2006-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinav2006-12&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10&amp;cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav2006-12&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10&amp;cache_seconds=1800"/>
 </div>
 
 ---
@@ -96,7 +96,7 @@ const abhinav = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhinav2006-12&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=abhinav2006-12&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -104,7 +104,7 @@ const abhinav = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav2006-12&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav2006-12&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -143,7 +143,7 @@ const abhinav = {
 
 | Degree | Institution | Year | Board |
 |:-------|:------------|:-----|:------|
-| Bachelor of Computer Applications (BCA) | Mentor Engineering College, Kottayam | 2025 – Present | KTU (APJ Abdul Kalam Technological University) |
+| Bachelor of Computer Applications (BCA) | Mentor Engineering College, Muvattupuzha | 2025 – Present | KTU (APJ Abdul Kalam Technological University) |
 | Higher Secondary — Computer Commerce | Kerala State Board | 2023 – 2025 | Kerala State Board |
 | SSLC | Kerala Education Board | 2022 | Kerala Education Board |
 
@@ -164,9 +164,9 @@ const abhinav = {
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%" alt="footer"/>
 </div>
