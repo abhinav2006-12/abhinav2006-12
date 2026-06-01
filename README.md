@@ -43,11 +43,11 @@ const abhinav = {
 
 <div align="center">
 
-<a href="mailto:abhiinavpr@gmail.com"><img src="https://img.shields.io/badge/Gmail-abhiinavpr%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/abhiinavpr"><img src="https://img.shields.io/badge/LinkedIn-Abhinav%20P%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/abhinav2006-12"><img src="https://img.shields.io/badge/GitHub-abhinav2006--12-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://abhiinavpr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-70A5FD?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/abhinav2006-12"><img src="https://komarev.com/ghpvc/?username=abhinav2006-12&style=flat-square&color=70a5fd&label=Profile+Views"/></a>
+<a href="mailto:abhiinavpr@gmail.com"><img src="https://img.shields.io/badge/Gmail-abhiinavpr%40gmail.com-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://linkedin.com/in/abhiinavpr"><img src="https://img.shields.io/badge/LinkedIn-Abhinav%20P%20R-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="https://github.com/abhinav2006-12"><img src="https://img.shields.io/badge/GitHub-abhinav2006--12-181717?style=flat-square&amp;logo=github&amp;logoColor=white"/></a>
+<a href="https://abhiinavpr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-70A5FD?style=flat-square&amp;logo=vercel&amp;logoColor=white"/></a>
+<a href="https://github.com/abhinav2006-12"><img src="https://komarev.com/ghpvc/?username=abhinav2006-12&amp;style=flat-square&amp;color=70a5fd&amp;label=Profile+Views"/></a>
 
 </div>
 
@@ -105,14 +105,6 @@ const abhinav = {
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav2006-12&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinav2006-12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
