@@ -130,7 +130,7 @@ const abhinav = {
 
 | 🏅 | Achievement | Details |
 |:--:|:------------|:--------|
-| 🎓 | **BCA Student — KTU** | Mentor Engineering College, Kottayam · Semester 2 · 2025–Present |
+| 🎓 | **BCA Student — KTU** | Mentor Engineering College, Muvattupuzha · Semester 2 · 2025–Present |
 | 🎥 | **Freelance Videographer & Editor** | Video production, UI/UX design |
 
 </div>
