@@ -2,7 +2,7 @@
   <img
     width="100%"
     alt="Abhinav P R banner"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Abhinav%20P%20R&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Freelance%20Videographer%20%26%20Editor&descAlignY=60&descSize=16&descColor=70a5fd&v=2"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Abhinav%20P%20R&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Freelance%20Videographer%20%26%20Editor&descAlignY=60&descSize=16&descColor=70a5fd&cacheBust=20260608"
   />
 </p>
 
