@@ -1,15 +1,11 @@
 <p align="center">
-  <img
-    width="100%"
-    alt="Abhinav P R banner"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Abhinav%20P%20R&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Freelance%20Videographer%20%26%20Editor&descAlignY=60&descSize=16&descColor=70a5fd&cacheBust=20260608"
-  />
+  <img width="100%" alt="Abhinav P R banner" src="./assets/profile-banner.png"/>
 </p>
 
 <p align="center">
   <img
     alt="Typing SVG"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&height=60&lines=Hey%2C+I%27m+Abhinav+P+R+%F0%9F%91%8B"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&height=60&lines=Hey%2C+I%27m+Abhinav+P+R"
   />
 </p>
 
@@ -20,8 +16,8 @@
 ```javascript
 const abhinav = {
   name: "Abhinav P R",
-  location: "Kottayam, Kerala, India 🌴",
-  degree: "BCA — Mentor Engineering College (KTU)",
+  location: "Kottayam, Kerala, India",
+  degree: "BCA - Mentor Engineering College (KTU)",
 
   stack: [
     "React", "Supabase", "Node.js",
@@ -36,7 +32,7 @@ const abhinav = {
 
   projects: ["AttendEase", "E-Vardhakya", "BillSwift", "KeralaGigs"],
 
-  funFact: "I shoot videos and debug code — both need the right frame 🎥",
+  funFact: "I shoot videos and debug code - both need the right frame",
 
   motto: () => "Build real. Ship clean. Keep learning.",
 };
@@ -46,7 +42,7 @@ const abhinav = {
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:abhiinavpr@gmail.com">
@@ -68,7 +64,7 @@ const abhinav = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -99,7 +95,7 @@ const abhinav = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img
@@ -116,7 +112,7 @@ const abhinav = {
 
 ---
 
-## 🔥 Streak Stats
+## Streak Stats
 
 <p align="center">
   <img
@@ -127,7 +123,7 @@ const abhinav = {
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img
@@ -139,44 +135,44 @@ const abhinav = {
 
 ---
 
-## 💼 Projects
+## Projects
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**AttendEase**](https://github.com/abhinav2006-12/attendease) | React · Tailwind · Supabase · Vercel | Role-based attendance system with 3 user roles: Institution Admin, Class Teacher, and Subject Teacher. OTP login, WhatsApp export, Dynamic Island notification UI, deployed on Vercel. |
-| [**E-Vardhakya**](https://github.com/abhinav2006-12/e-vardhakya) | React · Face API · Supabase | Elder care app with real-time face emotion detection and SOS emergency screen. Multilingual Malayalam and English support, accessibility-focused for elderly users in Kerala. |
-| [**BillSwift**](https://github.com/abhinav2006-12/billswift) | React · Supabase · UPI Integration | Mobile billing app with cart management, checkout flow, and UPI QR code generation. Shop management dashboard plus subuser roles, built for small businesses and retail. |
-| [**KeralaGigs**](https://github.com/abhinav2006-12/keralagigs) | React · Supabase · Tailwind | Hyperlocal gig marketplace connecting Kerala day workers with recruiters. Worker, recruiter, and admin modules with credits system and real-time notifications. |
+| [**AttendEase**](https://github.com/abhinav2006-12/attendease) | React - Tailwind - Supabase - Vercel | Role-based attendance system with 3 user roles: Institution Admin, Class Teacher, and Subject Teacher. OTP login, WhatsApp export, Dynamic Island notification UI, deployed on Vercel. |
+| [**E-Vardhakya**](https://github.com/abhinav2006-12/e-vardhakya) | React - Face API - Supabase | Elder care app with real-time face emotion detection and SOS emergency screen. Multilingual Malayalam and English support, accessibility-focused for elderly users in Kerala. |
+| [**BillSwift**](https://github.com/abhinav2006-12/billswift) | React - Supabase - UPI Integration | Mobile billing app with cart management, checkout flow, and UPI QR code generation. Shop management dashboard plus subuser roles, built for small businesses and retail. |
+| [**KeralaGigs**](https://github.com/abhinav2006-12/keralagigs) | React - Supabase - Tailwind | Hyperlocal gig marketplace connecting Kerala day workers with recruiters. Worker, recruiter, and admin modules with credits system and real-time notifications. |
 
 ---
 
-## 🎖️ Achievements & Interests
+## Achievements & Interests
 
-| Icon | Achievement | Details |
-|:--:|:------------|:--------|
-| 🎓 | **BCA Student — KTU** | Mentor Engineering College, Muvattupuzha · Semester 2 · 2025-Present |
-| 🎥 | **Freelance Videographer & Editor** | Video production, editing, and UI/UX design |
+| Achievement | Details |
+|:------------|:--------|
+| **BCA Student - KTU** | Mentor Engineering College, Muvattupuzha - Semester 2 - 2025-Present |
+| **Freelance Videographer & Editor** | Video production, editing, and UI/UX design |
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Year | Board |
 |:-------|:------------|:-----|:------|
 | Bachelor of Computer Applications (BCA) | Mentor Engineering College, Muvattupuzha | 2025-Present | KTU, APJ Abdul Kalam Technological University |
-| Higher Secondary — Computer Commerce | Kerala State Board | 2023-2025 | Kerala State Board |
+| Higher Secondary - Computer Commerce | Kerala State Board | 2023-2025 | Kerala State Board |
 | SSLC | Kerala Education Board | 2022 | Kerala Education Board |
 
 ---
 
-## 🧱 Currently Learning
+## Currently Learning
 
 ```text
-🧱 Data Structures        -> Arrays, Linked Lists, Stacks, Queues, Trees
-⚙️ Backend Architecture  -> REST APIs, Express.js, Auth patterns
-📱 React Native           -> Camera modules, Worklets, Native bridging
-🧮 Discrete Mathematics   -> Graph theory, Combinatorics, Logic
-☁️ Cloud & DevOps         -> Supabase Edge Functions, Vercel CI/CD
+Data Structures       -> Arrays, Linked Lists, Stacks, Queues, Trees
+Backend Architecture -> REST APIs, Express.js, Auth patterns
+React Native         -> Camera modules, Worklets, Native bridging
+Discrete Mathematics -> Graph theory, Combinatorics, Logic
+Cloud & DevOps       -> Supabase Edge Functions, Vercel CI/CD
 ```
 
 ---
@@ -189,9 +185,5 @@ const abhinav = {
 </p>
 
 <p align="center">
-  <img
-    width="100%"
-    alt="Footer"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=twinkling&v=2"
-  />
+  <img width="100%" alt="Footer banner" src="./assets/profile-footer.png"/>
 </p>
